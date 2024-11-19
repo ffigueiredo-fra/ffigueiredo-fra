@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello and welcome to my profile 👋 I am currently participating in a Data Science bootcamp at Le Wagon Online!
 
 <!--
 **ffigueiredo-fra/ffigueiredo-fra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
